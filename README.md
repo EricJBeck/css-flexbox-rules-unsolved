@@ -40,13 +40,13 @@ This assignment should prove that a student is able to:
 - [X] Clone the project to your computer
 - [X] Open the project in VSCode with `code <cloned_repo_folder_name>`
 - [X] This Assignment is NOT tested. You can use all the desired creativity!
-- [ ] All the tasks of the "Specific requirements" section MUST be solved
-- [ ] The project's file/folder structure should NOT be edited!
-- [ ] The ecommerce-page.html file should NOT be edited!
-- [ ] The code of the index.html and styles.css should pass the W3C validation (Feel free to use either the "w3c web validator" VSCode extension or the "Online w3c Markup Validation Service")
-- [ ] The code MUST be formatted with Prettier.
-- [ ] Push the changes to the Github repo, when finished.
-- [ ] Submit a .txt file with the Github repo url.
+- [X] All the tasks of the "Specific requirements" section MUST be solved
+- [X] The project's file/folder structure should NOT be edited!
+- [X] The ecommerce-page.html file should NOT be edited!
+- [X] The code of the index.html and styles.css should pass the W3C validation (Feel free to use either the "w3c web validator" VSCode extension or the "Online w3c Markup Validation Service")
+- [X] The code MUST be formatted with Prettier.
+- [X] Push the changes to the Github repo, when finished.
+- [X] Submit a .txt file with the Github repo url.
 
 You'll discover certain styles existing in the initial state of the CSS files. They're present for a purpose, but it's your call to determine whether you want to utilize them, remove them, or create some.
 
@@ -126,14 +126,14 @@ For the "Sign Up Form"
 
 Acceptance criteria:
 
-- [ ] Edit the following files:
-  - [ ] css: `/css/ecommerce-page.css`
-- [ ] Ensure the layout closely mirrors the mockup.
-- [ ] Refrain from using the margin CSS rule to specify distances between elements.
-- [ ] Positioning is prohibited.
-- [ ] When switching between views, display a different product list view.
-- [ ] The HTML file should remain unchanged; no updates or modifications are allowed.
-- [ ] The permitted list of CSS rules to add to the styles file is as follows:
+- [X] Edit the following files:
+  - [X] css: `/css/ecommerce-page.css`
+- [X] Ensure the layout closely mirrors the mockup.
+- [X] Refrain from using the margin CSS rule to specify distances between elements.
+- [X] Positioning is prohibited.
+- [X] When switching between views, display a different product list view.
+- [X] The HTML file should remain unchanged; no updates or modifications are allowed.
+- [X] The permitted list of CSS rules to add to the styles file is as follows:
   - `border-*`
   - `padding-*`
   - width
