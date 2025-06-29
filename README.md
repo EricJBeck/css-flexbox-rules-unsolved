@@ -78,7 +78,7 @@ Create the form HTML elements to imitate the mockup:
 For the "Sign In form":
 
 - [X] The form should have a border of 1px width and solid style.
-- [ ] The login input element.
+- [X] The login input element.
   - [X] Should require a value.
   - [X] Should include a placeholder.
   - [X] The value should be validated as an email by the default browser mechanism.
@@ -102,7 +102,7 @@ For the "Sign Up Form"
   - [X] Should require a value.
   - [X] The value should be validated to contain a minimum of 8 characters and a maximum of 20 by the default browser mechanism.
   - [X] Should hide symbols during typing.
-- [x] The confirm password input element
+- [X] The confirm password input element
   - [X] Should require a value.
   - [X] The value should be validated to contain a minimum of 8 characters and a maximum of 20 by the default browser mechanism.
   - [X] Should hide symbols during typing.
